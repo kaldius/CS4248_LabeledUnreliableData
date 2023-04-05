@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # ignore data files
 data/*
+=======
+.ipynb_checkpoints
+raw_data
+>>>>>>> 5214e25b49805f50000c48e5de21335888e1840c
